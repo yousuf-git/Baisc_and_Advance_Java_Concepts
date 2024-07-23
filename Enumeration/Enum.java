@@ -14,7 +14,7 @@ package Enumeration;
 enum Week {
     MONDAY, // ordinal 0
     TUESDAY, // ordinal 1
-    WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY; // ordinal 2 ... 7
+    WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY; // ordinal 2 ... 6
 }
 
 
@@ -51,7 +51,7 @@ public class Enum {
             System.out.println(wk.sr + ". " + wk);
         }
 
-        // Cannot compare different enum constants
+        // Cannot check if one enum constant is instance of another enum
         
         // Week type1 = Week.valueOf("MONDAY");
         // boolean isInstanceOf = type1 instanceof Week2; // Incompatible conditional operand types Week and Week2
