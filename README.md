@@ -28,9 +28,17 @@ Welcome to the Learn Advance Java repository! This repository is dedicated to pr
 - Stream API
 - Optional Class
 - Up and Down Casting
+- Records
+- Serailization and Deserialization
 - And many more...
 
 
 
 ### Contributing
 Contributions are always welcome! Don't hesitate to open an issue or pull request.
+
+---
+
+Author: [M. Yousuf](https://github.com/yousuf-git)
+\
+#codeToInnovate
